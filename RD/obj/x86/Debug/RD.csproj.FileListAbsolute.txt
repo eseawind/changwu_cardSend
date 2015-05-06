@@ -1,0 +1,8 @@
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\bin\Debug\RD.exe
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\bin\Debug\RD.pdb
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\obj\x86\Debug\RD.Form1.resources
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\obj\x86\Debug\RD.Properties.Resources.resources
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\obj\x86\Debug\RD.csproj.GenerateResource.Cache
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\obj\x86\Debug\RD.exe
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\obj\x86\Debug\RD.pdb
+D:\迅雷下载\RD_DP_V.1.0\RD及DP串口系列读写器演示程序及开发包\Example\C# (VS2010)\RD\bin\Debug\RD.exe.config
